@@ -17,3 +17,8 @@ body {
 .content h3 {
   color: #aaaaaa;
 }
+
+.content p {
+  color: #aaaaaa;
+  font-size: 0.8rem;
+}
